@@ -23,9 +23,7 @@ ctx.verify_mode = ssl.CERT_NONE
 
 #%%
 
-#Code adjusted for test - delete later, random variable declared
-
-variable1 = 'ABC'
+# Removed the stupid variable
 
 
 #%%
